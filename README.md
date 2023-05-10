@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
-<h3 align="center">A enetgy python developer from Uzbekistan</h3>
+<h3 align="center">A energy python developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yevgenevic&label=Profile%20views&color=0e75b6&style=flat" alt="yevgenevic" /> </p>
 
