@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Alisher</h1>
-<h3 align="center">A energy python developer from Uzbekistan</h3>
+PREVIEW
+MARKDOWN
+COPY
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisher
+===============================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yevgenevic&label=Profile%20views&color=0e75b6&style=flat" alt="yevgenevic" /> </p>
+Web Developer
+-------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yevgenevic" alt="yevgenevic" /></a> </p>
+python back end developer
 
-- 📫 How to reach me **yevgenevicalisher@gmail.com**
+* 🌍  I'm based in Uzbekistan
+* ✉️  You can contact me at [yevgenevicalisher@gmail.com](mailto:yevgenevicalisher@gmail.com)
+* 🧠  I'm learning Python
+* ⚡  im studying in Pdp academy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
