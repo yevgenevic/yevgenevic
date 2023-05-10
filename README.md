@@ -42,9 +42,5 @@ Badges
 <br/>
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yevgenevic&theme=tokyonight">
 <br/>
- <details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
-</details>
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yevgenevic&" alt="yevgenevic" /></p>
