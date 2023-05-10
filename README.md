@@ -42,6 +42,9 @@ Badges
 <br/>
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yevgenevic&theme=tokyonight">
 <br/>
- <a href="https://github.com/yevgenevic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenevic&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ <details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
 
+  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
+</details>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yevgenevic&" alt="yevgenevic" /></p>
