@@ -10,7 +10,7 @@ python back end developer
 * 🌍  I'm based in Uzbekistan
 * ✉️  You can contact me at [yevgenevicalisher@gmail.com](mailto:yevgenevicalisher@gmail.com)
 * 🧠  I'm learning Python
-* ⚡  im studying in Pdp academy
+* ⚡  I study at PDP Academy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
