@@ -1,0 +1,7 @@
+FROM python:3.11-alpine
+WORKDIR /ap
+ENV TOKEN=default_token_value
+COPY kutubxonalar.txt /ap/
+COPY modul4.py /ap/
+RUN pip install -r kutubxonalar.txt
+ENTRYPOINT ["python","modul4.py"]

@@ -1,0 +1,52 @@
+[
+   {
+      "id": 1,
+      "name": "Baliq",
+      "amount": 500
+   },
+   {
+      "id": 2,
+      "name": "Gusht",
+      "amount": 150
+   },
+   {
+      "id": 3,
+      "name": "burger",
+      "amount": 500
+   },
+   {
+      "id": 4,
+      "name": "lavash",
+      "amount": 500
+   },
+   {
+      "id": 5,
+      "name": "xotdog",
+      "amount": 500
+   },
+   {
+      "id": 6,
+      "name": "pishiriq",
+      "amount": 346
+   },
+   {
+      "id": 7,
+      "name": "sendwich",
+      "amount": 202
+   },
+   {
+      "name": "kabob",
+      "amount": 700,
+      "id": 8
+   },
+   {
+      "name": "honim",
+      "amount": 123,
+      "id": 9
+   },
+   {
+      "name": "ooo",
+      "amount": 1,
+      "id": 10
+   }
+]

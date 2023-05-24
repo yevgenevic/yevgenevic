@@ -1,0 +1,88 @@
+[
+   {
+      "id": 1,
+      "name": "Olma",
+      "amount": 470
+   },
+   {
+      "id": 2,
+      "name": "aplesin",
+      "amount": 55
+   },
+   {
+      "id": 3,
+      "name": "mandarin",
+      "amount": 12
+   },
+   {
+      "id": 4,
+      "name": "sut",
+      "amount": 27
+   },
+   {
+      "id": 5,
+      "name": "lagmon",
+      "amount": 1
+   },
+   {
+      "id": 6,
+      "name": "go'sht",
+      "amount": 58
+   },
+   {
+      "id": 7,
+      "name": "Baliq",
+      "amount": 54
+   },
+   {
+      "id": 8,
+      "name": "saryog'",
+      "amount": 5,
+      "cost": 150000
+   },
+   {
+      "id": 9,
+      "name": "Burger",
+      "amount": 100
+   },
+   {
+      "id": 10,
+      "name": "we",
+      "amount": 123
+   },
+   {
+      "id": 11,
+      "name": "w",
+      "amount": 1
+   },
+   {
+      "id": 12,
+      "name": "q",
+      "amount": 0
+   },
+   {
+      "name": "qwerty",
+      "amount": 110,
+      "id": 14
+   },
+   {
+      "name": "behi",
+      "amount": 77,
+      "id": 16
+   },
+   {
+      "name": "qazi",
+      "amount": 75,
+      "id": 15
+   },
+   {
+      "name": "shaptoli",
+      "amount": 12,
+      "id": 18
+   },
+   {
+      "name": "olma",
+      "amount": 15,
+      "id": 17
+   }
+]

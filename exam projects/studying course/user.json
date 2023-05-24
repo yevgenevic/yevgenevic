@@ -1,0 +1,14 @@
+[
+   {
+      "username": "ali",
+      "password": "$2b$12$0JVJoDhKw9mbAlwiiBxiNeJLzpOfgKhoH3uFxeISCM6iSEKodjDwW",
+      "myproduct": [
+         {
+            "name": "ruby",
+            "amount": 1,
+            "id": 4,
+            "time": "2023-03-09 18:20:33 PM"
+         }
+      ]
+   }
+]

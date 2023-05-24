@@ -1,0 +1,44 @@
+[
+   {
+      "username": "q",
+      "password": "$2b$12$icCPNtSoVrU6DhZoIbO49.S0t9S.R5bMlB4ymov9wP1555K4Rkgne",
+      "myproduct": [
+         {
+            "name": "qazi",
+            "amount": 12,
+            "id": 15,
+            "time": "2023-03-06 17:26:16 PM"
+         },
+         {
+            "name": "qwerty",
+            "amount": 1,
+            "id": 14,
+            "time": "2023-03-06 17:57:38 PM"
+         }
+      ]
+   },
+   {
+      "username": "wert",
+      "password": "$2b$12$Un9VAbxA654XQoMvQH4zo.93JtS1KkzeFwGqj.Xjo3/QN3XcVUyAC",
+      "myproduct": [
+         {
+            "name": "qazi",
+            "amount": 36,
+            "id": 15,
+            "time": "2023-03-06 18:30:44 PM"
+         }
+      ]
+   },
+   {
+      "username": "w",
+      "password": "$2b$12$TSiHSRhBHd3gU6yCDuHmGuTWW0EUN4cfLzxn6inVJlbZ8PQycizYi",
+      "myproduct": [
+         {
+            "name": "Olma",
+            "amount": 30,
+            "id": 1,
+            "time": "2023-03-07 15:09:19 PM"
+         }
+      ]
+   }
+]

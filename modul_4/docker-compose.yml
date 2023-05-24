@@ -1,0 +1,91 @@
+#version: '3.7'
+#
+#services:
+#  bot:
+#    build: .
+#    restart: always
+#    working_dir: /apps
+#    container_name: pizzabot
+#    environment:
+#      TOKEN:
+#      DATABASE: postgres
+#      DB_HOST: pg
+#      DB_PORT: 5432
+#    command: python main.py
+#    depends_on:
+#      - pg
+#  pg:
+#    image: postgres:14.1-alpine
+#    hostname: pg
+#    restart: always
+#    container_name: my_postgres
+#    environment:
+#      - POSTGRES_PASSWORD=1
+#    volumes:
+#      - pg_data:/var/lib/postgresql/data/
+#    ports:
+#      - "5432:5432"
+#volumes:
+#  pg_data:
+
+
+#version: "3.8"
+#
+#services:
+#  bot:
+#    image:  xol1qulov/my_bot:v1.0
+#    restart: always
+#    working_dir: /apps
+#    container_name: prayer_bot
+#    environment:
+#      TOKEN:
+#      DB_HOST: pg
+#      DB_PORT: 5432
+#      DB_PASS: 11
+#    command: python main.py
+#    depends_on:
+#      - pg
+#  pg:
+#    image: postgres:14.1-alpine
+#    restart: always
+#    container_name: my_postgres
+#    environment:
+#      - POSTGRES_PASSWORD=11
+#    volumes:
+#      - pg_data:/var/lib/postgresql/data/
+#    ports:
+#      - "5432:5432"
+#volumes:
+#  pg_data:
+
+version: '3.7'
+
+services:
+  bot:
+    #    build: .
+    image: azizbeee/registr_bot-bot:v1.0
+    working_dir: /apps
+    container_name: aiogram_bot
+    environment:
+      TOKEN:
+      DATABASE: postgres
+      DB_HOST: pg
+      DB_PORT: 5432
+    #    env_file:
+    #      - .env
+    command: python main.py
+    depends_on:
+      - pg
+  pg:
+    image: postgres:14.1-alpine
+    restart: always
+    container_name: my_postgres
+    environment:
+      POSTGRES_PASSWORD: 1
+    volumes:
+      - pg_data:/var/lib/postgresql/data/
+    ports:
+      - "5432:5432"
+
+volumes:
+  pg_data:
