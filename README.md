@@ -28,7 +28,6 @@ Badges
 
 <b>My GitHub Stats</b>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=yevgenevic&theme=onedark)](https://github.com/yevgenevic/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yevgenevic&theme=tokyonight)](https://github.com/yevgenevic/github-profile-trophy)
   
 ![yevgenevic GitHub stats](https://github-readme-stats.vercel.app/api?username=yevgenevic&show_icons=true&theme=radical)
