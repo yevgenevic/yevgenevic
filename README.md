@@ -16,6 +16,7 @@ python back end developer
 <p align="left">
 <a href="https://instagram.com/yevgenevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yevgenevic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yevgenevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yevgenevic" height="30" width="40" /></a>
+<a href="https://www.telegram.org/yevgenevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Telegram.svg" alt="yevgenevic" height="30" width="40" /></a>
 </p>
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://yevgenevich.t.me/)
 
