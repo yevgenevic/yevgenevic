@@ -12,7 +12,8 @@ python back end developer
 * 🧠  I'm learning Python
 * ⚡  I study at PDP Academy
 
-* ### ✍️ Random Dev Quote
+ 
+ ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
