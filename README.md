@@ -1,3 +1,5 @@
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisher
 ===============================================================================================================================
@@ -14,8 +16,7 @@ python back end developer
 
  [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 ### 😂 Random Dev Meme
@@ -38,8 +39,6 @@ python back end developer
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yevgenevic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![snake animation](https://github.com/<seu  yevgenevic>/<seu  yevgenevic>/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yevgenevic&icon=0&color=0)](https://visitcount.itsvg.in)
