@@ -38,7 +38,7 @@ python back end developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yevgenevic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+![snake animation](https://github.com/<seu user yevgenevic>/<seu user yevgenevic>/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yevgenevic&icon=0&color=0)](https://visitcount.itsvg.in)
