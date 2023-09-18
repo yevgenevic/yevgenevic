@@ -101,7 +101,7 @@
 
 <!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
-<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
+<a href="https://yevgenevic.wrapped.run"><b>My GitHub Wrapped</b></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yevgenevic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=yevgenevic&theme=dark&hide_border=false)<br/>
