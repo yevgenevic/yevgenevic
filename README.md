@@ -91,18 +91,25 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yevgenevic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yevgenevic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenevic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yevgenevic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=yevgenevic&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
+<p align="center">
+<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://camo.githubusercontent.com/fc7ab63c0d13a62ee92c9262c367cdf87b13b50f5781eb5854daf78d1d150c49/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26626f726465725f636f6c6f723d6339666630302673686f775f69636f6e733d74727565">
+
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<img src="https://camo.githubusercontent.com/badb9b8e33b5dd64ba966714daf05dc0018b7a8ceb6e6d0bd26cb996743e15c7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d7472696e69622e76657263656c2e6170702f3f757365723d7472696e6962267468656d653d6d65726b6f26626f726465723d63396666303026666972653d666635353030">
+
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://camo.githubusercontent.com/14ae1b49b861837c7787f8ba19b5b7349d160bdbc0b90f2184b60789449077f1/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d633966663030266c616e67735f636f756e743d36">
@@ -118,6 +125,7 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
+
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
