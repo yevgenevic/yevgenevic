@@ -114,18 +114,18 @@
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://camo.githubusercontent.com/14ae1b49b861837c7787f8ba19b5b7349d160bdbc0b90f2184b60789449077f1/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d633966663030266c616e67735f636f756e743d36">
 
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://camo.githubusercontent.com/4c9b0cae58669436ab35bea1fb32ad6b624fce8b46f94ca14d750ac2398fbdcc/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7472696e6962267265706f3d416447756172642d5769726547756172642d556e626f756e642d444e536372797074267468656d653d6d65726b6f26626f726465725f636f6c6f723d633966663030">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yevgenevic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yevgenevic&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenevic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--🏆TROPHYGIF-->
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yevgenevic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=yevgenevic&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
