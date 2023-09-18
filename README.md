@@ -291,7 +291,6 @@ Join the Word Cloud Board :cloud: :pencil2:
     <td align="center" width="96">
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
       <br>Pytest
-    </td>
  </tr>
 </table>
 
