@@ -6,6 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 python back end developer
 
