@@ -293,8 +293,6 @@ Join the Word Cloud Board :cloud: :pencil2:
       <br>Pytest
     </td>
  </tr>
-  </tr>
-  </tr>
 </table>
 
 <!--🖼️⭐🔱STARRED/FORK-->
