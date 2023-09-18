@@ -292,7 +292,6 @@ Join the Word Cloud Board :cloud: :pencil2:
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
       <br>Pytest
     </td>
-  </tr>
  </tr>
 </table>
 
